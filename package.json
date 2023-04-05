@@ -26,7 +26,7 @@
   "dependencies": {
     "async": "^3.2.2",
     "chalk": "^5.0.0",
-    "commit-stream": "^1.1.0",
+    "commit-stream": "^2.0.1",
     "debug": "^4.3.3",
     "ghauth": "^5.0.1",
     "ghissues": "^1.1.4",
